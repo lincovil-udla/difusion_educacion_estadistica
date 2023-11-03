@@ -1,0 +1,7 @@
+fig:nice-fig
+tab:nice-tab
+Sesion-1
+sesión-2-modelo-bernoulli-y-normal
+sesión-3-análisis-de-datos
+math-example
+sesión-04-proyectos-de-profesores
